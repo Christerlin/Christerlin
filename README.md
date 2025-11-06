@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=christerlin" alt="christerlin" /></a> </p>
 
-- 🔭 I’m currently working on **Intrusion Detection System (IDS) with Machine Learning**
+- 🔭 I’m currently working on a **Intrusion Detection System (IDS) with Machine Learning**
 
 - 🌱 I’m currently learning **Computer Sciences And Cyber Security**
 
