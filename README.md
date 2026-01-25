@@ -66,20 +66,24 @@ I approach security by **thinking like an attacker and building like a defender*
   <img src="https://img.shields.io/badge/Python%20Essentials-Level%201%20%26%202-yellow?style=flat-square" />
 </p>
 
----
 
-## 🏆 GitHub Achievements
+
+## 🏅 GitHub Achievements
 
 <p align="center">
   <a href="https://github.com/Christerlin?tab=achievements">
-    <img src="https://img.shields.io/badge/GitHub-Achievements%20Profile-blueviolet?style=flat-square&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Achievements%20Unlocked-success?style=flat-square&logo=github" />
+  </a>
+  <a href="https://github.com/Christerlin?achievement=pull-shark&tab=achievements">
+    <img src="https://img.shields.io/badge/Pull%20Shark-Unlocked-blue?style=flat-square" />
   </a>
 </p>
+>
 
 
 
 
----
+
 
 ## 🛠️ Languages & Tools
 
