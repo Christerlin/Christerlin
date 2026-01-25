@@ -70,9 +70,15 @@ I approach security by **thinking like an attacker and building like a defender*
 
 ## 🏆 GitHub Achievements
 
+## 🏆 GitHub Achievements
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=christerlin&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=christerlin&row=1&column=6" 
+    alt="GitHub Trophies"
+  />
 </p>
+
 
 ---
 
