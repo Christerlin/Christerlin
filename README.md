@@ -18,34 +18,57 @@ Red Team Operator • Full Stack Developer • Cybersecurity Enthusiast 🇭🇹
 
 ## 🧠 Profile Summary
 
-I am a **Red Team–oriented cybersecurity practitioner** with a strong **full-stack development background**.  
-My focus lies in **offensive security**, **Active Directory attacks**, **infrastructure exploitation**, and **secure application design**.
+I am a **Red Team–oriented cybersecurity professional** with a strong **full-stack development background**.  
+My expertise focuses on **offensive security**, **Active Directory exploitation**, **API & Web attacks**, **cloud red teaming**, and **security-driven application development**.
 
-I combine **attack methodology** with **development skills** to better understand, exploit, and secure complex systems.
+I approach security by **thinking like an attacker and building like a defender**.
 
 ---
 
 ## 🎯 Current Focus
 
-- 🔭 Building an **Intrusion Detection System (IDS) powered by Machine Learning**
-- 🌱 Studying **Computer Science & Cybersecurity**
-- 🧪 Practicing **CTFs, labs, red team simulations & adversary emulation**
-- ⚙️ Developing **security-aware applications**
+- 🔭 Developing an **Intrusion Detection System (IDS) using Machine Learning**
+- 🌱 Advancing in **Computer Science & Cybersecurity**
+- 🧪 Practicing **CTFs, adversary emulation & red team simulations**
+- ⚙️ Building **secure, attack-aware applications**
 
 ---
 
-## 🎓 Certifications & Expertise
+## 🎓 Certifications & Professional Credentials
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Red%20Team%20Analyst-Certified-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/Red%20Team%20Infrastructure%20Developer-Certified-darkred?style=flat-square" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Certified%20Ethical%20Hacker-CEH-critical?style=flat-square" />
+  <img src="https://img.shields.io/badge/Junior%20Cybersecurity%20Analyst-Certified-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Junior%20Penetration%20Tester-Certified-red?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Red%20Team%20Analyst-CRTA-darkred?style=flat-square" />
+  <img src="https://img.shields.io/badge/Web%20Red%20Team%20Analyst-Certified-brown?style=flat-square" />
+  <img src="https://img.shields.io/badge/API%20Red%20Team%20Analyst-Certified-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/Active%20Directory%20Red%20Team-Specialist-purple?style=flat-square" />
-  <img src="https://img.shields.io/badge/Multi--Cloud%20Red%20Team-Analyst-blueviolet?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Multi--Cloud%20Red%20Team%20Analyst-Certified-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Blue%20Team%20Fundamentals-Certified-steelblue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cybersecurity%20Educator-Professional-success?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CompTIA%20PenTest-Knowledge%20Certified-lightgrey?style=flat-square" />
+  <img src="https://img.shields.io/badge/Web%20Security%20Fundamentals-Certified-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Pre--Security-Certified-brightgreen?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Critical%20Infrastructure%20Protection-Certified-darkblue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Python%20Essentials-Level%201%20%26%202-yellow?style=flat-square" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=christerlin&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" />
@@ -61,7 +84,7 @@ I combine **attack methodology** with **development skills** to better understan
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/icon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45"/>
