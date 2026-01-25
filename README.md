@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Christerlin Joseph</h1>
 <h3 align="center">
-Red Team Operator • Full Stack Developer • Cybersecurity Enthusiast 🇭🇹
+Red Team Operator • Full Stack Developer • Cybersecurity Enthusiast
 </h3>
 
 <p align="center">
