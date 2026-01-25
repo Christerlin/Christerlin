@@ -71,9 +71,9 @@ I approach security by **thinking like an attacker and building like a defender*
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub-Active-success?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Security-Researcher-critical?style=flat-square" />
+  <a href="https://github.com/Christerlin?tab=achievements">
+    <img src="https://img.shields.io/badge/GitHub-Achievements%20Profile-blueviolet?style=flat-square&logo=github" />
+  </a>
 </p>
 
 
