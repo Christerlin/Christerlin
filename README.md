@@ -66,7 +66,7 @@ I approach security by **thinking like an attacker and building like a defender*
   <img src="https://img.shields.io/badge/Python%20Essentials-Level%201%20%26%202-yellow?style=flat-square" />
 </p>
 
-
+---
 
 ## 🏅 GitHub Achievements
 
@@ -78,12 +78,8 @@ I approach security by **thinking like an attacker and building like a defender*
     <img src="https://img.shields.io/badge/Pull%20Shark-Unlocked-blue?style=flat-square" />
   </a>
 </p>
->
 
-
-
-
-
+---
 
 ## 🛠️ Languages & Tools
 
