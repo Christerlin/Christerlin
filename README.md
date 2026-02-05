@@ -8,7 +8,7 @@ Red Team Operator • Full Stack Developer • Cybersecurity Enthusiast
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Red%20Team-Active-critical?style=flat-square" />
+  <img src="https://img.shields.io/badge/Red%20Team-critical?style=flat-square" />
   <img src="https://img.shields.io/badge/Blue%20Team-Aware-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Full%20Stack-Developer-success?style=flat-square" />
   <img src="https://img.shields.io/badge/CTF%20Player-Yes-orange?style=flat-square" />
