@@ -37,28 +37,27 @@ I approach security by **thinking like an attacker and building like a defender*
 ## 🎓 Certifications & Professional Credentials
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Certified%20Ethical%20Hacker-CEH-critical?style=flat-square" />
-  <img src="https://img.shields.io/badge/Junior%20Cybersecurity%20Analyst-Certified-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Junior%20Penetration%20Tester-Certified-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Certified%20Ethical%20Hacker-critical?style=flat-square" />
+  <img src="https://img.shields.io/badge/Junior%20Cybersecurity%20Analyst-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Junior%20Penetration%20Tester-red?style=flat-square" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Red%20Team%20Analyst-CRTA-darkred?style=flat-square" />
-  <img src="https://img.shields.io/badge/Web%20Red%20Team%20Analyst-Certified-brown?style=flat-square" />
-  <img src="https://img.shields.io/badge/API%20Red%20Team%20Analyst-Certified-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Active%20Directory%20Red%20Team-Specialist-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/Certified%20Red%20Team%20Analyst-darkred?style=flat-square" />
+  <img src="https://img.shields.io/badge/Certified%20Web%20Red%20Team%20Analyst-brown?style=flat-square" />
+  <img src="https://img.shields.io/badge/Certified%20API%20Red%20Team%20Analyst-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Certified%20Active%20Directory%20Red%20Team%20Specialist-purple?style=flat-square" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Multi--Cloud%20Red%20Team%20Analyst-Certified-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/Blue%20Team%20Fundamentals-Certified-steelblue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Cybersecurity%20Educator-Professional-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Certified%20Multi--Cloud%20Red%20Team%20Analyst-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Certified%20Blue%20Team%20Fundamentals-steelblue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Certified%20Cybersecurity%20Educator%20Professional-success?style=flat-square" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CompTIA%20PenTest-Knowledge%20Certified-lightgrey?style=flat-square" />
-  <img src="https://img.shields.io/badge/Web%20Security%20Fundamentals-Certified-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Pre--Security-Certified-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/CompTIA%20PenTest+-Knowledge%20Certified-lightgrey?style=flat-square" />
+  
 </p>
 
 <p align="center">
