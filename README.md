@@ -37,7 +37,7 @@ I approach security by **thinking like an attacker and building like a defender*
 ## 🎓 Certifications & Professional Credentials
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Certified%20Ethical%20Hacker-critical?style=flat-square" />
+  <img src="https://img.shields.io/badge/Certified%20Ethical%20Hacker%20CISCO-critical?style=flat-square" />
   
   <img src="https://img.shields.io/badge/Certified%20Junior%20Penetration%20Tester-red?style=flat-square" />
 </p>
