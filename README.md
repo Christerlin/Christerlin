@@ -105,18 +105,6 @@ I approach security by **thinking like an attacker and building like a defender*
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=christerlin&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christerlin&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
