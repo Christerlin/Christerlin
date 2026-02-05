@@ -38,8 +38,8 @@ I approach security by **thinking like an attacker and building like a defender*
 
 <p align="center">
   <img src="https://img.shields.io/badge/Certified%20Ethical%20Hacker-critical?style=flat-square" />
-  <img src="https://img.shields.io/badge/Junior%20Cybersecurity%20Analyst-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Junior%20Penetration%20Tester-red?style=flat-square" />
+  
+  <img src="https://img.shields.io/badge/Certified%20Junior%20Penetration%20Tester-red?style=flat-square" />
 </p>
 
 <p align="center">
@@ -56,12 +56,12 @@ I approach security by **thinking like an attacker and building like a defender*
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CompTIA%20PenTest+-Knowledge%20Certified-lightgrey?style=flat-square" />
+  <img src="https://img.shields.io/badge/CompTIA%20PenTest+%20THM-lightgrey?style=flat-square" />
   
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Critical%20Infrastructure%20Protection-Certified-darkblue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Certified%20Critical%20Infrastructure%20Protection-darkblue?style=flat-square" />
   <img src="https://img.shields.io/badge/Python%20Essentials-Level%201%20%26%202-yellow?style=flat-square" />
 </p>
 
