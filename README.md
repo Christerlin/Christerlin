@@ -68,7 +68,7 @@ I approach security by **thinking like an attacker and building like a defender*
 
 ---
 ## TryHackme Badge
-![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3407162&format=png)
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/H3r4cL3s.png)
 
 
 ---
