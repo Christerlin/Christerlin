@@ -67,7 +67,11 @@ I approach security by **thinking like an attacker and building like a defender*
 </p>
 
 ---
+## TryHackme Badge
+![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3407162)
 
+
+---
 ## 🏅 GitHub Achievements
 
 <p align="center">
