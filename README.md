@@ -66,9 +66,9 @@ My expertise focuses on **offensive security**, **Active Directory exploitation*
 
 | Badge | Issued by | Verify |
 |-------|-----------|--------|
-| 🔐 **Junior Cybersecurity Analyst Career Path** | Cisco | [![Verify](https://img.shields.io/badge/Verify%20on%20Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/badges/5a99ad3f-0368-4e4c-a66e-a4cd3fdc8086/public_url) |
-| 🔐 **Ethical Hacker** | Cisco | [![Verify](https://img.shields.io/badge/Verify%20on%20Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/badges/002c87f1-b842-4799-ac27-f2786ca6c151/public_url) |
-| 🔐 **Cyber Security 101 (SEC1)** | TryHackMe | [![Verify](https://img.shields.io/badge/Verify%20on%20Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/badges/c99c380c-0485-4a6b-89e8-d1a5854e4343/public_url) |
+|**Junior Cybersecurity Analyst Career Path** | Cisco | [![Verify](https://img.shields.io/badge/Verify%20on%20Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/badges/5a99ad3f-0368-4e4c-a66e-a4cd3fdc8086/public_url) |
+|**Ethical Hacker** | Cisco | [![Verify](https://img.shields.io/badge/Verify%20on%20Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/badges/002c87f1-b842-4799-ac27-f2786ca6c151/public_url) |
+|**Cyber Security 101 (SEC1)** | TryHackMe | [![Verify](https://img.shields.io/badge/Verify%20on%20Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/badges/c99c380c-0485-4a6b-89e8-d1a5854e4343/public_url) |
 
 [![View All Badges](https://img.shields.io/badge/View%20All%20Badges%20on%20Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/joseph-christerlin)
 
@@ -106,7 +106,7 @@ My expertise focuses on **offensive security**, **Active Directory exploitation*
 
 <div align="center">
 
-[![TryHackMe Profile](https://tryhackme-badges.s3.amazonaws.com/H3r4cL3s.png)](https://tryhackme.com/p/H3r4cL3s)
+[![TryHackMe Profile](https://tryhackme-badges.s3.amazonaws.com/Christerlin.png)](https://tryhackme.com/p/Christerlin)
 
 </div>
 
